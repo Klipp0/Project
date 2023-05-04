@@ -1,0 +1,93 @@
+body {
+    background-color: #f2f2f2;
+    margin: 0px;
+    font-family: 'Segoe UI';
+    text-decoration: none;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #ededee;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(83, 83, 83);
+}
+
+h3 {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(83, 83, 83);
+}
+
+header {
+    background-color: rgb(16, 19, 44);
+    padding: 16px;
+}
+
+main {
+    width: 40%;
+    margin: 0px auto;
+    background-color: #fff;
+    padding: 16px 0px;
+}
+
+.block {
+    width: 80%;
+    margin: 0px 10%;
+}
+
+button {
+    min-width: 90%;
+    margin: 0px auto;
+    font-size: 16px;
+    color: rgb(83, 83, 83);
+    border-radius: 3px;
+    border: 1px solid rgb(83, 83, 83);
+    padding: 16px;
+    margin: 8px 5%;
+    background-color: #fff;
+    transition: 0.5s;
+}
+
+.mts:hover {
+    transition: 0.5s;
+    background-color: rgb(227, 6, 19);
+}
+
+.biline:hover {
+    transition: 0.5s;
+    background-color: rgb(255,230,50);
+}
+
+.megafon:hover {
+    transition: 0.5s;
+    background-color: rgb(0,185,86);
+}
+
+.confirm:hover {
+    transition: 0.5s;
+    background-color: rgb(45, 131, 66);
+}
+
+.confirm {
+    background-color: rgb(61,185,93);
+    color: #ededee;
+}
+
+input {
+    min-width: 90%;
+    margin: 0px auto;
+    font-size: 16px;
+    color: rgb(83, 83, 83);
+    border-radius: 3px;
+    border: 1px solid rgb(83, 83, 83);
+    padding: 8px;
+    margin: 8px auto;
+    background-color: #fff;
+}
